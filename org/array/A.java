@@ -6,6 +6,7 @@ public class A {
 		Integer in=new Integer(200);
 		int intValue=in.intValue();
 		System.out.println(intValue);
+		System.out.println("a");
 	}
 }
 		
